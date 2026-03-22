@@ -35,7 +35,7 @@ OpenClaw exploded on GitHub, reaching over 329,000 stars in roughly 60 days and 
 
 **Despite all of that**, setup is hard. Here is what the struggle looks like:
 
-- Setup takes days (15 days for the author), even for someone with technical knowledge.
+- Setup takes days (15 days for me), even with some technical knowledge.
 - Gateway fails to start, crashes, or shows port conflicts, auth token mismatches, or "another instance is listening" errors.
 - Debugging token limits, agent loops, corrupted configs, and permission issues burns time and money.
 - Installation complexity and poor beginner guidance make the first run feel overwhelming.
