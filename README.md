@@ -1,8 +1,7 @@
-# OpenClaw: Complete Setup & Optimization Guide
+# OpenClaw: Complete Setup & Optimization Guide I Wish I had
 
 > **A step-by-step guidebook to go from first install to a fully configured, production-ready OpenClaw agent setup.**
 
----
 
 ## Table of Contents
 
